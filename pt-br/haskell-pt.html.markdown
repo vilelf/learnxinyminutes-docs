@@ -117,7 +117,7 @@ not False -- Nega uma falácia
 [1..5] ++ [6..10] ++ [1..4] -- [1,2,3,4,5,6,7,8,9,10,1,2,3,4]
 
 -- Adiciona um cabeçalho a sua lista e desloca a cauda
-0:[1..10] -- [0, 1, 2, 3, 4, 5]
+0:[1..5] -- [0, 1, 2, 3, 4, 5]
 'a':['a'..'e'] -- "aabcde"
 
 -- Indexação em uma lista
